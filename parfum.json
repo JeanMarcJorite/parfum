@@ -1,6 +1,24 @@
 {
   "products": [
     {
+      "id": 1,
+      "name": "Chanel No. 5",
+      "description": "Un parfum emblématique et intemporel avec des notes de rose, de jasmin et de vanille.",
+      "brand": "Chanel",
+      "price": 180,
+      "quantity_available": 25,
+      "gender": "men"
+    },
+    {
+      "id": 2,
+      "name": "Dior Sauvage",
+      "description": "Un parfum frais et boisé avec des notes de bergamote, de poivre et de patchouli.",
+      "brand": "Dior",
+      "price": 110,
+      "quantity_available": 40,
+      "gender" : "men"
+    },
+    {
       "id": 3,
       "name": "Gucci Bloom",
       "description": "Un parfum floral avec des notes de tubéreuse, de jasmin et de lys.",
