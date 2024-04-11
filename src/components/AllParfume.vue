@@ -67,9 +67,11 @@ export default {
   <section>
     <ul class="container">
       <li v-for="(product, i) in parfums" :key="i" class="product-item">
+        <RouterLink :to="`/products/${product.id}`">
         <h3>{{ product.name }}</h3>
         <p class="brand">{{ product.brand }}</p>
         <p>{{ product.price }} €</p>
+        </RouterLink>
         <button class="product-button">
           <font-awesome-icon icon="shopping-bag" />
           <span class="button-text"> Commander</span>

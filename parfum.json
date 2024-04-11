@@ -900,5 +900,31 @@
         "gender": "women"
       }
 
+  ],
+  "conseils": [
+    {
+      "id" : 1,
+      "conseil" : "Pour une tenue longue durée, vaporisez votre parfum sur les points de pulsation (poignets, cou, derrière les oreilles)."
+      },
+      {
+      "id" : 2,
+      "conseil" : "Pour une fragrance plus légère, vaporisez votre parfum en l'air et passez à travers le nuage de parfum."
+      },
+      {
+      "id" : 3,
+      "conseil" : "Pour une fragrance plus intense, vaporisez votre parfum sur vos vêtements."
+      },
+      {
+      "id" : 4,
+      "conseil" : "Pour une fragrance plus subtile, vaporisez votre parfum sur vos cheveux."
+      },
+      {
+      "id" : 5,
+      "conseil" : "Pour une fragrance plus fraîche, conservez votre parfum au réfrigérateur."
+      },
+      {
+      "id" : 6,
+      "conseil" : "Pour une fragrance plus chaude, conservez votre parfum dans un endroit sec et sombre."
+      }
   ]
 }
